@@ -12,6 +12,7 @@ The Movie App is a Flutter-based mobile application that allows users to browse,
 ## Screenshots
 
 ![Now Showing](screenshots/sh_1.png)
+
 ![Upcoming Movies](screenshots/sh_2.png)
 
 ## Getting Started
